@@ -2,8 +2,6 @@
 
 Welcome to my professional portfolio website repository! This site showcases my project work, certifications, work experiences, and academic achievements as an aspiring Data Analyst and Computer Science (AI) student.
 
-👉 **Live Site:** [https://harshasrigaade.github.io/protfolio/](https://harshasrigaade.github.io/protfolio/)
-
 ---
 
 ## 🚀 About Me
